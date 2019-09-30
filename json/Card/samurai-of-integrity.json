@@ -1,22 +1,22 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "lion"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "lion",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "samurai-of-integrity",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Samurai of Integrity",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -24,7 +24,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "",
         "traits": [
             "bushi"
         ],

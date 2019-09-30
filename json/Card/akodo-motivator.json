@@ -1,30 +1,30 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "lion"
         ],
-        "clan": "dragon",
+        "clan": "lion",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "niten-master",
+        "id": "akodo-motivator",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "5",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Akodo Motivator",
         "name_extra": null,
-        "political": "3",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Reaction:</b> After an opponent's card ability or ring effect discards 1 or more cards from your hand - that opponent discards an equal number of cards at random from his or her hand.",
         "traits": [
             "bushi"
         ],

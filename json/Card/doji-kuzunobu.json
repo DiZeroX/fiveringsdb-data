@@ -1,34 +1,35 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crane"
         ],
-        "clan": "dragon",
+        "clan": "crane",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "doji-kuzunobu",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Doji Kuzunobu",
         "name_extra": null,
-        "political": "3",
+        "political": "4",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "While this character is participating in a conflict, players cannot trigger reaction abilities.",
         "traits": [
-            "bushi"
+            "courtier",
+            "creature"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]
