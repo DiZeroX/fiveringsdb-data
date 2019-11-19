@@ -1,22 +1,28 @@
 [
     {
         "allowed_clans": [
-            "crab"
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
         ],
-        "clan": "crab",
+        "clan": "neutral",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "yasuki-hikaru",
+        "id": "ichiro",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Yasuki Hikaru",
+        "name": "Ichirō",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -24,10 +30,11 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+        "text": "Each character with 1 or more attachments cannot be honored or dishonored.",
         "traits": [
             "bushi",
-            "magistrate"
+            "heretic",
+            "ronin"
         ],
         "type": "character",
         "unicity": true

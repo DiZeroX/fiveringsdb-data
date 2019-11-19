@@ -1,35 +1,36 @@
 [
     {
         "allowed_clans": [
-            "crab"
+            "dragon"
         ],
-        "clan": "crab",
-        "cost": 3,
+        "clan": "dragon",
+        "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "yasuki-hikaru",
+        "id": "taoist-adept",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "1",
         "military_bonus": null,
-        "name": "Yasuki Hikaru",
+        "name": "Taoist Adept",
         "name_extra": null,
-        "political": "2",
+        "political": "1",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The controller of the duel's winner may place 1 fate on an unclaimed ring.",
         "traits": [
             "bushi",
-            "magistrate"
+            "monk",
+            "duelist"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

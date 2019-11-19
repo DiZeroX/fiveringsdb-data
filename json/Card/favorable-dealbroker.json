@@ -4,32 +4,32 @@
             "crab"
         ],
         "clan": "crab",
-        "cost": 3,
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "yasuki-hikaru",
+        "id": "favorable-dealbroker",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Yasuki Hikaru",
+        "name": "Favorable Dealbroker",
         "name_extra": null,
-        "political": "2",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+        "text": "<b>Reaction:</b> After this character enters play - search your dynasty deck for a character with printed cost 1 and put it into play. Shuffle.",
         "traits": [
-            "bushi",
-            "magistrate"
+            "courtier",
+            "merchant"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

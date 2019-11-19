@@ -4,19 +4,19 @@
             "crab"
         ],
         "clan": "crab",
-        "cost": 3,
+        "cost": 6,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "yasuki-hikaru",
+        "id": "kaiu-siege-force",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "7",
         "military_bonus": null,
-        "name": "Yasuki Hikaru",
+        "name": "Kaiu Siege Force",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -24,10 +24,11 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+        "text": "No attachments.\n<b>Action:</b> Put a <i>(friendly)</i> holding on the bottom of your dynasty deck - ready this character.",
         "traits": [
             "bushi",
-            "magistrate"
+            "army",
+            "engineer"
         ],
         "type": "character",
         "unicity": true
