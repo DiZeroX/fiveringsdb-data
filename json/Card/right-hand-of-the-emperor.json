@@ -1,24 +1,19 @@
 [
     {
         "allowed_clans": [
-            "crab",
-            "crane",
-            "dragon",
-            "lion",
-            "phoenix",
-            "scorpion",
-            "unicorn"
+            "lion"
         ],
         "clan": "lion",
         "cost": 3,
         "deck_limit": 3,
-        "element": null,
+        "element": [],
         "fate": null,
         "glory": null,
         "honor": null,
         "id": "right-hand-of-the-emperor",
         "influence_cost": null,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
