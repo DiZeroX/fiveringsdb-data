@@ -71,11 +71,11 @@ class Card
     private $name;
 
     /**
-     * @var string|null
+     * @var integer|null
      *
-     * @ORM\Column(name="cost", type="string", nullable=true)
+     * @ORM\Column(name="cost", type="smallint", nullable=true)
      *
-     * @Skizzle\Field(type="string")
+     * @Skizzle\Field(type="integer")
      */
     private $cost;
 

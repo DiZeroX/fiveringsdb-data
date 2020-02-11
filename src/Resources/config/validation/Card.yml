@@ -50,7 +50,8 @@ App\Entity\Card:
                 strict: true
                 message: Not a valid role restriction.
         cost:
-            - Type: string
+            - Type: integer
+            - GreaterThanOrEqual: 0
             - Expression:
                 expression: "this.getType() in ['holding','province','role','stronghold','attachment', 'treaty'] or value !== null"
                 message: Must have a cost.
